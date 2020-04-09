@@ -57,7 +57,7 @@ class Test_sys_software_version(unittest.TestCase):
             self.assertEqual(result['status'], int(test_case[7]), test_case[0] + ":测试失败,status错误")
             self.assertEqual(result['data'], ast.literal_eval(test_case[8]), test_case[0] + ":测试失败,data错误")
             self.assertEqual(result['operation'], test_case[9], test_case[0] + ":测试失败,operation错误")
-            self.assertEqual(result['msg'], test_case[10], test_case[0] + ":测试失败,msg错误")
+            self.assertEqual(result['msg'], test_case[10], test_case[0] + ":测试失败,msg错误!!!")
         except Exception as ex:
             logger.error(str(ex) + "\n实际返回内容：" + str(result))
 
