@@ -1,0 +1,1233 @@
+[INFO][2020-04-03 09:47:25,127] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 09:47:25,209] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 09:47:25,287] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 09:47:32,372] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 09:47:32,458] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 09:47:32,536] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 09:47:32,603] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 09:47:32,691] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 09:47:33,788] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 09:47:33,859] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 09:47:40,949] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 09:47:41,030] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 09:47:41,102] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 09:47:41,162] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 09:47:41,251] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 09:47:41,827] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:47:41,895] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 09:47:48,979] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 09:47:49,043] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 09:47:49,113] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 09:47:49,183] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 09:47:49,255] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 09:47:49,334] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[ERROR][2020-04-03 09:47:49,400] 'used'
+实际返回内容：{'status': 0, 'data': {'ip': '', 'stat': False, 'filemax': None, 'unused': None, 'allocated': None, 'msg': 'get performanceInfo failed: Please check if you can communicate !'}, 'operation': 'Get sys/handle_count', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:47:49,400] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:47:56,487] 'used'
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'stat': False, 'filemax': None, 'unused': None, 'allocated': None, 'msg': 'get performanceInfo failed: Please check if you can communicate !'}, 'operation': 'Get sys/handle_count', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:47:56,487] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 09:47:56,567] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 09:47:56,626] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 09:47:56,692] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 09:47:56,778] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 09:47:56,865] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:47:56,946] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 09:48:04,035] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 09:48:04,107] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 09:48:04,173] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 09:48:04,248] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 09:48:04,334] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 09:48:04,544] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:48:04,620] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:48:06,701] False != True : test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入:测试失败,data错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/disk', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:48:06,701] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 09:48:06,766] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 09:48:06,834] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 09:48:06,918] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 09:48:06,993] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 09:48:07,067] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:48:07,140] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:48:09,224] 0 != 1 : test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入:测试失败,status错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/network_flow', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:48:09,224] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 09:48:09,297] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 09:48:09,374] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 09:48:09,446] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 09:48:09,531] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 09:48:09,704] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:48:09,767] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:48:11,842] None != {} : test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入:测试失败,data错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/fans_speed', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:48:11,842] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 09:48:11,935] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 09:48:12,009] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 09:48:12,083] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 09:48:12,165] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 09:48:12,237] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:48:12,317] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:48:14,399] False != True : test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入:测试失败,data错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/cpu', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:48:14,399] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 09:48:14,464] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 09:48:14,531] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 09:48:14,593] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 09:56:13,825] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 09:56:13,924] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 09:56:14,003] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 09:56:21,083] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 09:56:21,149] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 09:56:21,215] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 09:56:21,280] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 09:56:21,363] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 09:56:22,457] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:22,532] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 09:56:29,611] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 09:56:29,678] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 09:56:29,751] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 09:56:29,830] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 09:56:29,909] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 09:56:30,489] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:30,568] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 09:56:37,651] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 09:56:37,723] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 09:56:37,793] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 09:56:37,854] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 09:56:37,945] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 09:56:38,027] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:38,097] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 09:56:45,187] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 09:56:45,252] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 09:56:45,323] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 09:56:45,394] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 09:56:45,470] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 09:56:45,544] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:45,617] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 09:56:52,707] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 09:56:52,774] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 09:56:52,845] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 09:56:52,910] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 09:56:52,980] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 09:56:53,141] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:53,223] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 09:56:55,282] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 09:56:55,347] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 09:56:55,417] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 09:56:55,481] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 09:56:55,565] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 09:56:55,643] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:56:55,710] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[ERROR][2020-04-03 09:56:57,785] 'Get /hardware/network_flow' != 'Exception details please view the log file'
+- Get /hardware/network_flow
++ Exception details please view the log file
+ : test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入:测试失败,operation错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/network_flow', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 09:56:57,785] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 09:56:57,859] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 09:56:57,931] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 09:56:57,995] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 09:56:58,079] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 09:57:03,333] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:57:03,502] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 09:57:05,577] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 09:57:05,649] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 09:57:05,716] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 09:57:05,788] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 09:57:05,868] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 09:57:05,945] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 09:57:06,040] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 09:57:08,121] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 09:57:08,188] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 09:57:08,251] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 09:57:08,319] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 10:04:20,199] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 10:04:20,335] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 10:04:20,411] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 10:04:27,492] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 10:04:27,552] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 10:04:27,616] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 10:04:27,687] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 10:04:27,760] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 10:04:28,855] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 10:04:28,930] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 10:04:36,004] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 10:04:36,076] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 10:04:36,150] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 10:04:36,228] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 10:04:36,306] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 10:04:36,896] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:04:36,973] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 10:04:44,052] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 10:04:44,117] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 10:04:44,187] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 10:04:44,249] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 10:04:44,321] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 10:04:44,398] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:04:44,464] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 10:04:51,554] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 10:04:51,624] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 10:04:51,698] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 10:04:51,766] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 10:04:51,843] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 10:04:51,923] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:04:51,988] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 10:04:59,080] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 10:04:59,148] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 10:04:59,213] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 10:04:59,286] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 10:04:59,366] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 10:04:59,575] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:04:59,648] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 10:05:01,717] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 10:05:01,791] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 10:05:01,863] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 10:05:01,937] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 10:05:02,019] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 10:05:02,092] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:05:02,168] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[ERROR][2020-04-03 10:05:04,236] 'SUCCESS' != 'String index out of range: -3'
+- SUCCESS
++ String index out of range: -3
+ : test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入:测试失败,msg错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if check netsign'}, 'operation': 'Get /hardware/network_flow', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 10:05:04,236] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 10:05:04,304] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 10:05:04,380] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 10:05:04,447] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 10:05:04,526] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 10:05:04,710] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:05:04,783] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 10:05:06,864] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 10:05:06,926] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 10:05:06,999] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 10:05:07,072] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 10:05:07,146] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 10:05:07,227] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:05:07,297] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 10:05:09,366] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 10:05:09,457] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 10:05:09,541] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 10:05:09,614] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 10:06:07,438] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[INFO][2020-04-03 10:16:59,847] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 10:17:00,302] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 10:17:00,387] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 10:17:07,476] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[ERROR][2020-04-03 10:17:07,544] 'Requester:null;Request source api :/device/sys/version  fail' != 'Requester:null;Request source api :/censignserver/device/sys/version  fail'
+- Requester:null;Request source api :/device/sys/version  fail
++ Requester:null;Request source api :/censignserver/device/sys/version  fail
+?                                    ++++++++++++++
+ : test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:07,545] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[ERROR][2020-04-03 10:17:07,617] 'Requester:null;Request source api :/device/sys/version  fail' != 'Requester:null;Request source api :/censignserver/device/sys/version  fail'
+- Requester:null;Request source api :/device/sys/version  fail
++ Requester:null;Request source api :/censignserver/device/sys/version  fail
+?                                    ++++++++++++++
+ : test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:07,617] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 10:17:07,696] test_sys_software_version:测试软件版本类型接口,无password键值
+[ERROR][2020-04-03 10:17:07,760] 'Requester:null;Request source api :/device/sys/version  fail' != 'Requester:null;Request source api :/censignserver/device/sys/version  fail'
+- Requester:null;Request source api :/device/sys/version  fail
++ Requester:null;Request source api :/censignserver/device/sys/version  fail
+?                                    ++++++++++++++
+ : test_sys_software_version:测试软件版本类型接口,无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:07,771] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 10:17:08,864] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:08,938] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 10:17:16,020] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:16,092] 'Requester:null;Request source api :/device/sys/cpu_usage  fail' != 'Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail'
+- Requester:null;Request source api :/device/sys/cpu_usage  fail
++ Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail
+?                                    ++++++++++++++
+ : test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/cpu_usage  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:16,093] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:16,161] 'Requester:null;Request source api :/device/sys/cpu_usage  fail' != 'Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail'
+- Requester:null;Request source api :/device/sys/cpu_usage  fail
++ Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail
+?                                    ++++++++++++++
+ : test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/cpu_usage  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:16,161] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 10:17:16,230] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[ERROR][2020-04-03 10:17:16,291] 'Requester:null;Request source api :/device/sys/cpu_usage  fail' != 'Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail'
+- Requester:null;Request source api :/device/sys/cpu_usage  fail
++ Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail
+?                                    ++++++++++++++
+ : test_sys_cpu_usage:测试设备CPU使用率，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/cpu_usage  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:16,302] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:16,887] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:16,964] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:24,052] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:24,125] 'Requester:null;Request source api :/device/sys/shell/top  fail' != 'Requester:null;Request source api :/censignserver/device/sys/shell/top  fail'
+- Requester:null;Request source api :/device/sys/shell/top  fail
++ Requester:null;Request source api :/censignserver/device/sys/shell/top  fail
+?                                    ++++++++++++++
+ : test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/shell/top  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:24,125] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:24,192] 'Requester:null;Request source api :/device/sys/shell/top  fail' != 'Requester:null;Request source api :/censignserver/device/sys/shell/top  fail'
+- Requester:null;Request source api :/device/sys/shell/top  fail
++ Requester:null;Request source api :/censignserver/device/sys/shell/top  fail
+?                                    ++++++++++++++
+ : test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/shell/top  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:24,192] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 10:17:24,257] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[ERROR][2020-04-03 10:17:24,330] 'Requester:null;Request source api :/device/sys/shell/top  fail' != 'Requester:null;Request source api :/censignserver/device/sys/shell/top  fail'
+- Requester:null;Request source api :/device/sys/shell/top  fail
++ Requester:null;Request source api :/censignserver/device/sys/shell/top  fail
+?                                    ++++++++++++++
+ : test_sys_shell_top:测试获取设备的top命令信息接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/shell/top  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:24,342] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:24,414] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:24,483] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:31,580] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:31,647] 'Requ[13 chars]quest source api :/device/sys/handle_count  fail' != 'Requ[13 chars]quest source api :/censignserver/device/sys/handle_count  fail'
+- Requester:null;Request source api :/device/sys/handle_count  fail
++ Requester:null;Request source api :/censignserver/device/sys/handle_count  fail
+?                                    ++++++++++++++
+ : test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/handle_count  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:31,648] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:31,718] 'Requ[13 chars]quest source api :/device/sys/handle_count  fail' != 'Requ[13 chars]quest source api :/censignserver/device/sys/handle_count  fail'
+- Requester:null;Request source api :/device/sys/handle_count  fail
++ Requester:null;Request source api :/censignserver/device/sys/handle_count  fail
+?                                    ++++++++++++++
+ : test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/handle_count  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:31,719] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 10:17:31,782] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[ERROR][2020-04-03 10:17:31,845] 'Requ[13 chars]quest source api :/device/sys/handle_count  fail' != 'Requ[13 chars]quest source api :/censignserver/device/sys/handle_count  fail'
+- Requester:null;Request source api :/device/sys/handle_count  fail
++ Requester:null;Request source api :/censignserver/device/sys/handle_count  fail
+?                                    ++++++++++++++
+ : test_sys_handle_count:测试获取设备的句柄数接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/handle_count  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:31,856] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:31,937] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:32,012] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:39,092] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:39,156] 'Requ[13 chars]quest source api :/device/hardware/version  fail' != 'Requ[13 chars]quest source api :/censignserver/device/hardware/version  fail'
+- Requester:null;Request source api :/device/hardware/version  fail
++ Requester:null;Request source api :/censignserver/device/hardware/version  fail
+?                                    ++++++++++++++
+ : test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:39,156] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:39,226] 'Requ[13 chars]quest source api :/device/hardware/version  fail' != 'Requ[13 chars]quest source api :/censignserver/device/hardware/version  fail'
+- Requester:null;Request source api :/device/hardware/version  fail
++ Requester:null;Request source api :/censignserver/device/hardware/version  fail
+?                                    ++++++++++++++
+ : test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:39,226] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 10:17:39,293] test_hardware_version:测试软件版本类型接口，无password键值
+[ERROR][2020-04-03 10:17:39,365] 'Requ[13 chars]quest source api :/device/hardware/version  fail' != 'Requ[13 chars]quest source api :/censignserver/device/hardware/version  fail'
+- Requester:null;Request source api :/device/hardware/version  fail
++ Requester:null;Request source api :/censignserver/device/hardware/version  fail
+?                                    ++++++++++++++
+ : test_hardware_version:测试软件版本类型接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/version  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:39,375] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:39,679] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:39,752] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:41,827] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:41,891] 'Requester:null;Request source api :/device/hardware/disk  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/disk  fail'
+- Requester:null;Request source api :/device/hardware/disk  fail
++ Requester:null;Request source api :/censignserver/device/hardware/disk  fail
+?                                    ++++++++++++++
+ : test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/disk  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:41,891] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:41,958] 'Requester:null;Request source api :/device/hardware/disk  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/disk  fail'
+- Requester:null;Request source api :/device/hardware/disk  fail
++ Requester:null;Request source api :/censignserver/device/hardware/disk  fail
+?                                    ++++++++++++++
+ : test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/disk  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:41,958] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 10:17:42,030] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[ERROR][2020-04-03 10:17:42,099] 'Requester:null;Request source api :/device/hardware/disk  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/disk  fail'
+- Requester:null;Request source api :/device/hardware/disk  fail
++ Requester:null;Request source api :/censignserver/device/hardware/disk  fail
+?                                    ++++++++++++++
+ : test_hardware_disk:测试获取设备磁盘状态接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/disk  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:42,110] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:42,186] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:42,264] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:44,334] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:44,387] 'Requ[18 chars] source api :/device/hardware/network_flow  fail' != 'Requ[18 chars] source api :/censignserver/device/hardware/network_flow  fail'
+- Requester:null;Request source api :/device/hardware/network_flow  fail
++ Requester:null;Request source api :/censignserver/device/hardware/network_flow  fail
+?                                    ++++++++++++++
+ : test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/network_flow  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:44,388] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:44,458] 'Requ[18 chars] source api :/device/hardware/network_flow  fail' != 'Requ[18 chars] source api :/censignserver/device/hardware/network_flow  fail'
+- Requester:null;Request source api :/device/hardware/network_flow  fail
++ Requester:null;Request source api :/censignserver/device/hardware/network_flow  fail
+?                                    ++++++++++++++
+ : test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/network_flow  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:44,459] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 10:17:44,529] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[ERROR][2020-04-03 10:17:44,593] 'Requ[18 chars] source api :/device/hardware/network_flow  fail' != 'Requ[18 chars] source api :/censignserver/device/hardware/network_flow  fail'
+- Requester:null;Request source api :/device/hardware/network_flow  fail
++ Requester:null;Request source api :/censignserver/device/hardware/network_flow  fail
+?                                    ++++++++++++++
+ : test_hardware_network_flow:测试设备网络详情接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/network_flow  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:44,604] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:49,956] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:50,129] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:52,203] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:52,275] 'Requ[16 chars]st source api :/device/hardware/fans_speed  fail' != 'Requ[16 chars]st source api :/censignserver/device/hardware/fans_speed  fail'
+- Requester:null;Request source api :/device/hardware/fans_speed  fail
++ Requester:null;Request source api :/censignserver/device/hardware/fans_speed  fail
+?                                    ++++++++++++++
+ : test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/fans_speed  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:52,275] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:52,339] 'Requ[16 chars]st source api :/device/hardware/fans_speed  fail' != 'Requ[16 chars]st source api :/censignserver/device/hardware/fans_speed  fail'
+- Requester:null;Request source api :/device/hardware/fans_speed  fail
++ Requester:null;Request source api :/censignserver/device/hardware/fans_speed  fail
+?                                    ++++++++++++++
+ : test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/fans_speed  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:52,339] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 10:17:52,413] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[ERROR][2020-04-03 10:17:52,486] 'Requ[16 chars]st source api :/device/hardware/fans_speed  fail' != 'Requ[16 chars]st source api :/censignserver/device/hardware/fans_speed  fail'
+- Requester:null;Request source api :/device/hardware/fans_speed  fail
++ Requester:null;Request source api :/censignserver/device/hardware/fans_speed  fail
+?                                    ++++++++++++++
+ : test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/fans_speed  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:52,497] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 10:17:52,573] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:17:52,657] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 10:17:54,732] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[ERROR][2020-04-03 10:17:54,786] 'Requester:null;Request source api :/device/hardware/cpu  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/cpu  fail'
+- Requester:null;Request source api :/device/hardware/cpu  fail
++ Requester:null;Request source api :/censignserver/device/hardware/cpu  fail
+?                                    ++++++++++++++
+ : test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/cpu  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:54,786] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[ERROR][2020-04-03 10:17:54,855] 'Requester:null;Request source api :/device/hardware/cpu  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/cpu  fail'
+- Requester:null;Request source api :/device/hardware/cpu  fail
++ Requester:null;Request source api :/censignserver/device/hardware/cpu  fail
+?                                    ++++++++++++++
+ : test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/cpu  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:17:54,855] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 10:17:54,926] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[ERROR][2020-04-03 10:17:54,990] 'Requester:null;Request source api :/device/hardware/cpu  fail' != 'Requester:null;Request source api :/censignserver/device/hardware/cpu  fail'
+- Requester:null;Request source api :/device/hardware/cpu  fail
++ Requester:null;Request source api :/censignserver/device/hardware/cpu  fail
+?                                    ++++++++++++++
+ : test_hardware_cpu:测试获取设备CPU状况接口，无password键值:测试失败,operation错误
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/hardware/cpu  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:19:40,748] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[ERROR][2020-04-03 10:19:40,814] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误:测试失败,operation错误 :: Requester:null;Request source api :/device/sys/cpu_usage  fail != Requester:null;Request source api :/censignserver/device/sys/cpu_usage  fail
+实际返回内容：{'status': 10, 'data': None, 'operation': 'Requester:null;Request source api :/device/sys/cpu_usage  fail', 'msg': 'Authentication failed, access not allowed'}
+[INFO][2020-04-03 10:22:59,304] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 10:23:08,118] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 10:23:08,189] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 10:23:08,254] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 10:23:15,340] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 10:23:15,412] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 10:23:15,479] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 10:23:15,546] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 10:23:15,628] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 10:23:16,722] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:16,796] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 10:23:23,884] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 10:23:23,958] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 10:23:24,024] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 10:23:24,089] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 10:23:24,170] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:24,752] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:24,837] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:31,941] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:31,997] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:32,069] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 10:23:32,141] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 10:23:32,217] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:32,291] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:32,360] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:39,443] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:39,517] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:39,591] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 10:23:39,665] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 10:23:39,742] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:39,820] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:39,884] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:46,977] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:47,046] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:47,117] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 10:23:47,194] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 10:23:47,273] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:47,478] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:47,555] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:49,626] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:49,694] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:49,764] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 10:23:49,833] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 10:23:49,915] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:49,995] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:50,066] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:52,143] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:52,206] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:52,275] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 10:23:52,347] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 10:23:52,422] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:52,610] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:52,674] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:54,740] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:54,802] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:54,877] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 10:23:54,942] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 10:23:55,016] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 10:23:55,099] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 10:23:55,174] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 10:23:57,241] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 10:23:57,316] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 10:23:57,382] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 10:23:57,447] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 11:19:36,701] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 11:19:36,856] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 11:19:36,955] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 11:19:44,053] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 11:19:44,107] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 11:19:44,175] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 11:19:44,242] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 11:19:44,325] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 11:19:45,913] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 11:19:45,972] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 11:19:53,096] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 11:19:53,170] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 11:19:53,240] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 11:19:53,308] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 11:19:53,382] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 11:19:54,969] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:19:55,048] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:02,159] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:02,232] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:02,293] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 11:20:02,357] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 11:20:02,427] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[ERROR][2020-04-03 11:20:02,504] 'used'
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'stat': True, 'filemax': '779488', 'unused': '0', 'allocated': '1056'}, 'operation': 'Get sys/handle_count', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 11:20:02,504] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:02,576] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:09,669] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:09,740] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:09,811] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 11:20:09,883] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 11:20:09,958] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 11:20:10,029] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:10,088] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:17,174] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:17,243] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:17,313] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 11:20:17,376] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 11:20:17,457] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 11:20:17,648] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:17,722] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:19,799] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:19,854] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:19,930] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 11:20:20,001] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 11:20:20,075] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 11:20:20,149] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:20,221] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:22,300] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:22,374] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:22,441] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 11:20:22,511] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 11:20:22,591] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 11:20:22,899] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:22,968] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:25,035] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:25,104] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:25,167] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 11:20:25,239] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 11:20:25,325] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 11:20:25,402] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 11:20:25,470] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 11:20:27,548] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 11:20:27,623] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 11:20:27,685] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 11:20:27,759] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 14:27:06,312] test_sys_software_version:测试软件版本类型接口,ip,password均正确输入
+[INFO][2020-04-03 14:27:06,420] test_sys_software_version:测试软件版本类型接口,ip有建无值，password正常
+[INFO][2020-04-03 14:27:06,503] test_sys_software_version:测试软件版本类型接口,ip不通，password正常
+[INFO][2020-04-03 14:27:13,578] test_sys_software_version:测试软件版本类型接口,ip正确，password密码错误
+[INFO][2020-04-03 14:27:13,646] test_sys_software_version:测试软件版本类型接口,ip正确，password密码为空
+[INFO][2020-04-03 14:27:13,715] test_sys_software_version:测试软件版本类型接口,无ip键值
+[INFO][2020-04-03 14:27:13,780] test_sys_software_version:测试软件版本类型接口,无password键值
+[INFO][2020-04-03 14:27:13,848] test_sys_cpu_usage:测试设备CPU使用率，ip,password均正确输入
+[INFO][2020-04-03 14:27:15,445] test_sys_cpu_usage:测试设备CPU使用率，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:15,514] test_sys_cpu_usage:测试设备CPU使用率，ip不通,password正确输入
+[INFO][2020-04-03 14:27:22,610] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码错误
+[INFO][2020-04-03 14:27:22,673] test_sys_cpu_usage:测试设备CPU使用率，ip正确，password密码为空
+[INFO][2020-04-03 14:27:22,745] test_sys_cpu_usage:测试设备CPU使用率，无ip键值
+[INFO][2020-04-03 14:27:22,815] test_sys_cpu_usage:测试设备CPU使用率，无password键值
+[INFO][2020-04-03 14:27:22,887] test_sys_shell_top:测试获取设备的top命令信息接口，ip,password均正确输入
+[INFO][2020-04-03 14:27:24,486] test_sys_shell_top:测试获取设备的top命令信息接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:24,544] test_sys_shell_top:测试获取设备的top命令信息接口，ip不通,password正确输入
+[INFO][2020-04-03 14:27:31,627] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码错误
+[INFO][2020-04-03 14:27:31,704] test_sys_shell_top:测试获取设备的top命令信息接口，ip正确，password密码为空
+[INFO][2020-04-03 14:27:31,769] test_sys_shell_top:测试获取设备的top命令信息接口，无ip键值
+[INFO][2020-04-03 14:27:31,837] test_sys_shell_top:测试获取设备的top命令信息接口，无password键值
+[INFO][2020-04-03 14:27:31,925] test_sys_handle_count:测试获取设备的句柄数接口，ip,password均正确输入
+[INFO][2020-04-03 14:27:32,005] test_sys_handle_count:测试获取设备的句柄数接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:32,071] test_sys_handle_count:测试获取设备的句柄数接口，ip不通,password正确输入
+[INFO][2020-04-03 14:27:39,155] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码错误
+[INFO][2020-04-03 14:27:39,231] test_sys_handle_count:测试获取设备的句柄数接口，ip正确，password密码为空
+[INFO][2020-04-03 14:27:39,296] test_sys_handle_count:测试获取设备的句柄数接口，无ip键值
+[INFO][2020-04-03 14:27:39,366] test_sys_handle_count:测试获取设备的句柄数接口，无password键值
+[INFO][2020-04-03 14:27:39,455] test_hardware_version:测试硬件版本类型接口，ip,password均正确输入
+[INFO][2020-04-03 14:27:39,529] test_hardware_version:测试硬件版本类型接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:39,589] test_hardware_version:测试硬件版本类型接口，ip不通,password正确输入
+[INFO][2020-04-03 14:27:46,686] test_hardware_version:测试硬件版本类型接口，ip正确，password密码错误
+[INFO][2020-04-03 14:27:46,756] test_hardware_version:测试硬件版本类型接口，ip正确，password密码为空
+[INFO][2020-04-03 14:27:46,819] test_hardware_version:测试软件版本类型接口，无ip键值
+[INFO][2020-04-03 14:27:46,890] test_hardware_version:测试软件版本类型接口，无password键值
+[INFO][2020-04-03 14:27:46,969] test_hardware_disk:测试获取设备磁盘状态接口，ip,password均正确输入
+[INFO][2020-04-03 14:27:52,286] test_hardware_disk:测试获取设备磁盘状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:52,483] test_hardware_disk:测试获取设备磁盘状态接口，ip不通,password正确输入
+[INFO][2020-04-03 14:27:54,578] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码错误
+[INFO][2020-04-03 14:27:54,667] test_hardware_disk:测试获取设备磁盘状态接口，ip正确，password密码为空
+[INFO][2020-04-03 14:27:54,735] test_hardware_disk:测试获取设备磁盘状态接口，无ip键值
+[INFO][2020-04-03 14:27:54,810] test_hardware_disk:测试获取设备磁盘状态接口，无password键值
+[INFO][2020-04-03 14:27:54,891] test_hardware_network_flow:测试设备网络详情接口，ip,password均正确输入
+[INFO][2020-04-03 14:27:54,972] test_hardware_network_flow:测试设备网络详情接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:27:55,057] test_hardware_network_flow:测试设备网络详情接口，ip不通,password正确输入
+[INFO][2020-04-03 14:27:57,133] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码错误
+[INFO][2020-04-03 14:27:57,206] test_hardware_network_flow:测试设备网络详情接口，ip正确，password密码为空
+[INFO][2020-04-03 14:27:57,284] test_hardware_network_flow:测试设备网络详情接口，无ip键值
+[INFO][2020-04-03 14:27:57,355] test_hardware_network_flow:测试设备网络详情接口，无password键值
+[INFO][2020-04-03 14:27:57,436] test_hardware_fans_speed:测试获取设备风扇转速接口，ip,password均正确输入
+[INFO][2020-04-03 14:28:07,511] test_hardware_fans_speed:测试获取设备风扇转速接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:28:07,963] test_hardware_fans_speed:测试获取设备风扇转速接口，ip不通,password正确输入
+[INFO][2020-04-03 14:28:10,070] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码错误
+[INFO][2020-04-03 14:28:10,137] test_hardware_fans_speed:测试获取设备风扇转速接口，ip正确，password密码为空
+[INFO][2020-04-03 14:28:10,214] test_hardware_fans_speed:测试获取设备风扇转速接口，无ip键值
+[INFO][2020-04-03 14:28:10,282] test_hardware_fans_speed:测试获取设备风扇转速接口，无password键值
+[INFO][2020-04-03 14:28:10,369] test_hardware_cpu:测试获取设备CPU状况接口，ip,password均正确输入
+[INFO][2020-04-03 14:28:10,460] test_hardware_cpu:测试获取设备CPU状况接口，ip有键无值,password正确输入
+[INFO][2020-04-03 14:28:10,537] test_hardware_cpu:测试获取设备CPU状况接口，ip不通,password正确输入
+[INFO][2020-04-03 14:28:12,599] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码错误
+[INFO][2020-04-03 14:28:12,671] test_hardware_cpu:测试获取设备CPU状况接口，ip正确，password密码为空
+[INFO][2020-04-03 14:28:12,743] test_hardware_cpu:测试获取设备CPU状况接口，无ip键值
+[INFO][2020-04-03 14:28:12,805] test_hardware_cpu:测试获取设备CPU状况接口，无password键值
+[INFO][2020-04-03 15:53:49,943] test_hardware_mem:测试获取内存状态接口，ip,password均正确输入
+[ERROR][2020-04-03 15:53:50,199] test_hardware_mem:测试获取内存状态接口，ip,password均正确输入:测试失败,operation错误 :: Get /hardware/mem != Get /hardware/fans_speed
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': {'total': '7823.0', 'memPercent': '30.819378', 'used': '2411.0'}, 'stat': True}, 'operation': 'Get /hardware/mem', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 15:55:03,917] test_hardware_mem:测试获取内存状态接口，ip,password均正确输入
+[INFO][2020-04-03 15:55:09,019] test_hardware_mem:测试获取内存状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 15:55:15,924] test_hardware_mem:测试获取内存状态接口，ip不通,password正确输入
+[INFO][2020-04-03 15:55:28,621] test_hardware_mem:测试获取内存状态接口，ip正确，password密码错误
+[INFO][2020-04-03 15:55:33,501] test_hardware_mem:测试获取内存状态接口，ip正确，password密码为空
+[INFO][2020-04-03 15:55:36,806] test_hardware_mem:测试获取内存状态接口，无ip键值
+[INFO][2020-04-03 15:55:40,444] test_hardware_mem:测试获取内存状态接口，无password键值
+[INFO][2020-04-03 15:55:44,189] test_hardware_mem:测试获取内存状态接口，ip,password均正确输入
+[INFO][2020-04-03 15:55:44,504] test_hardware_mem:测试获取内存状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 15:55:44,583] test_hardware_mem:测试获取内存状态接口，ip不通,password正确输入
+[INFO][2020-04-03 15:55:46,656] test_hardware_mem:测试获取内存状态接口，ip正确，password密码错误
+[INFO][2020-04-03 15:55:46,719] test_hardware_mem:测试获取内存状态接口，ip正确，password密码为空
+[INFO][2020-04-03 15:55:46,788] test_hardware_mem:测试获取内存状态接口，无ip键值
+[INFO][2020-04-03 15:55:46,851] test_hardware_mem:测试获取内存状态接口，无password键值
+[INFO][2020-04-03 16:14:48,180] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[ERROR][2020-04-03 16:14:53,516] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入:测试失败,data错误 :: False != True
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if a service exists or check netsign'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 16:16:16,365] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[ERROR][2020-04-03 16:16:17,637] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入:测试失败,operation错误 :: Get /service/basic_status != 
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.223', 'infos': [{'name': 'lannie', 'tcpConnCount': '0', 'startTime': '2020-04-02 15:19:25', 'uptime': '1days 0hours 53minutes 39seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 17:12:15,086] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-03 17:12:47,210] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-03 17:38:34,637] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[ERROR][2020-04-03 17:38:34,897] 'usr_cpu'
+实际返回内容：{'status': 0, 'data': {'ip': '', 'stat': False, 'infos': None, 'msg': 'get performanceInfo by SNMP failed: Please check if you can communicate !'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 17:59:39,010] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 18:08:08,402] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[ERROR][2020-04-03 18:08:15,716] 'usr_cpu'
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'stat': False, 'infos': None, 'msg': 'get performanceInfo by SNMP failed:Request timed out.'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 18:09:49,268] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[ERROR][2020-04-03 18:09:51,551] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入:测试失败,data错误 :: get performanceInfo by SNMP failed:Request timed out. != get performanceInfo failed: Please check if you can communicate !
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.88.2', 'stat': False, 'infos': None, 'msg': 'get performanceInfo by SNMP failed:Request timed out.'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-03 18:10:42,584] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-03 18:13:46,488] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-03 18:14:05,634] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-03 18:14:09,566] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-03 18:23:02,208] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-03 18:23:02,686] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-03 18:23:02,782] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-03 18:23:04,866] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-03 18:23:04,949] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-03 18:23:05,027] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-03 18:23:05,084] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 09:34:16,080] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 09:34:26,188] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 09:34:36,258] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 09:34:46,286] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 09:34:56,317] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 09:35:33,956] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 09:36:45,837] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:14:41,719] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:14:42,167] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:14:42,238] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:14:44,301] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:14:44,342] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:14:44,395] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:14:44,459] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:20:00,672] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:22:12,738] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:25:08,265] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:25:08,696] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:25:08,759] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:25:10,819] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:25:10,871] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:25:10,922] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:25:10,976] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:25:11,017] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:25:30,908] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:25:31,351] unexpected EOF while parsing (<unknown>, line 0)
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if a service exists or check netsign'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:28:51,522] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:29:33,864] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:30:58,752] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:30:59,200] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,operation错误 :: Get /service/basic_status != 
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if a service exists or check netsign'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:32:05,567] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:37:19,413] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:37:31,657] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:37:44,584] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[ERROR][2020-04-08 10:37:45,188] test_service_basic_status:测试获取服务的基本状态接口，service无键无值:测试失败,data错误 :: [{'name': 'CUPSTC',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': 'NSS',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': 'pbc',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': 'RBC2',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 58seconds'},
+ {'name': 'demo',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': '40018',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'},
+ {'name': 'RBCGM',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 47minutes 57seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'CUPSTC', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': 'NSS', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': 'pbc', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': 'RBC2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 47minutes 58seconds', 'status': 'running'}, {'name': 'demo', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': '40018', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}, {'name': 'RBCGM', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 47minutes 57seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:38:04,907] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[ERROR][2020-04-08 10:38:05,295] test_service_basic_status:测试获取服务的基本状态接口，service无键无值:测试失败,data错误 :: [{'name': 'CUPSTC',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'},
+ {'name': 'NSS',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'},
+ {'name': 'pbc',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'},
+ {'name': 'RBC2',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 18seconds'},
+ {'name': 'demo',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 18seconds'},
+ {'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'},
+ {'name': '40018',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'},
+ {'name': 'RBCGM',
+  'startTime': '2020-04-07 10:47:41',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 48minutes 17seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'CUPSTC', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}, {'name': 'NSS', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}, {'name': 'pbc', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}, {'name': 'RBC2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 48minutes 18seconds', 'status': 'running'}, {'name': 'demo', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 48minutes 18seconds', 'status': 'running'}, {'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}, {'name': '40018', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}, {'name': 'RBCGM', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:41', 'uptime': '0days 23hours 48minutes 17seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:38:59,527] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:40:10,501] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:40:16,199] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:40:16,254] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:40:18,302] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:40:18,354] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:40:18,405] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:40:18,459] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:40:18,516] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:40:18,566] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 50minutes 28seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 50minutes 28seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:40:18,567] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:40:18,617] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 50minutes 28seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 50minutes 28seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:40:18,617] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:42:40,705] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:42:45,304] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:42:48,889] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:42:54,897] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:42:55,302] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:42:55,356] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:42:57,410] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:42:57,463] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:42:57,513] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:42:57,565] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:42:57,617] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:42:57,667] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 53minutes 7seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 53minutes 7seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:42:57,667] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:42:57,717] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 53minutes 7seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 53minutes 7seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:42:57,717] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:45:12,513] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:45:16,453] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:45:25,085] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:45:25,373] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:45:25,429] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:45:27,483] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:45:27,534] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:45:27,586] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:45:27,636] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:45:27,688] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:45:27,739] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 55minutes 37seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 55minutes 37seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:45:27,739] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:45:27,789] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 55minutes 37seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 55minutes 37seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:45:27,790] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:47:52,867] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:47:58,214] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:48:01,263] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:48:13,372] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:48:18,959] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:48:19,462] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:48:19,517] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:48:21,574] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:48:21,625] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:48:21,677] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:48:21,728] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:48:21,779] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:48:21,831] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 58minutes 31seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 58minutes 31seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:48:21,831] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:48:21,882] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '0days 23hours 58minutes 31seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '0days 23hours 58minutes 31seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:48:21,882] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:52:48,429] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:52:54,160] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:52:54,214] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:52:56,267] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:52:56,326] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:52:56,379] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:52:56,434] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:52:56,475] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:52:56,529] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 3minutes 6seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 3minutes 6seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:52:56,530] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:52:56,582] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 3minutes 6seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 3minutes 6seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:52:56,583] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:53:58,755] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:53:59,146] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:53:59,199] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:54:01,254] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:54:01,305] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:54:01,356] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:54:01,397] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:54:01,453] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:54:01,499] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 4minutes 11seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 4minutes 11seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:54:01,499] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:54:01,549] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 4minutes 11seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 4minutes 11seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:54:01,550] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:55:05,918] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:55:06,311] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:55:06,364] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:55:08,420] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:55:08,473] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:55:08,524] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:55:08,574] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:55:08,626] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:55:08,677] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 5minutes 18seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 5minutes 18seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:55:08,677] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:55:08,731] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 5minutes 18seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 5minutes 18seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:55:08,732] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:56:49,320] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:56:59,383] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:56:59,855] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:57:01,911] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:57:01,962] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:57:02,012] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:57:02,064] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:57:02,114] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 10:57:02,385] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 10:57:02,436] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[ERROR][2020-04-08 10:57:02,485] None == None : test_service_basic_status:测试获取服务的基本状态接口，service无键无值:测试失败,data错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if a service exists or check netsign'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:57:19,754] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:57:20,155] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:57:20,213] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:57:22,259] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:57:22,310] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:57:22,363] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:57:22,407] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:57:22,460] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:57:22,502] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 7minutes 32seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 7minutes 32seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:57:22,503] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:57:22,560] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 7minutes 32seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 7minutes 32seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:57:22,560] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:58:36,650] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:58:42,330] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:58:42,384] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:58:44,440] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:58:44,492] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:58:44,543] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:58:44,594] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:58:44,646] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:58:44,697] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 8minutes 54seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 8minutes 54seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:58:44,698] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:58:44,748] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 8minutes 54seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 8minutes 54seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:58:44,749] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:59:23,100] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:59:23,372] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:59:23,415] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:59:25,472] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:59:25,524] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:59:25,575] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:59:25,628] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:59:25,701] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:59:25,751] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 9minutes 35seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 9minutes 35seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:59:25,752] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 10:59:37,488] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 10:59:37,973] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 10:59:38,025] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 10:59:40,078] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 10:59:40,129] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 10:59:40,169] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 10:59:40,222] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 10:59:40,293] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 10:59:40,343] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 9minutes 50seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 9minutes 50seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:59:40,344] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 10:59:40,393] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 9minutes 50seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 9minutes 50seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 10:59:40,393] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:04:26,443] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:05:19,052] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:05:19,598] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:05:19,651] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:05:21,704] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:05:21,757] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:05:21,808] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:05:21,860] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:05:21,912] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:05:21,964] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 15minutes 31seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 15minutes 31seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:05:21,964] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:05:22,003] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 15minutes 31seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 15minutes 31seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:05:22,003] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:06:26,685] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:06:32,470] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:06:32,523] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:06:34,576] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:06:34,628] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:06:34,668] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:06:34,719] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:06:34,775] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:06:34,826] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 16minutes 44seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 16minutes 44seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:06:34,826] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:06:34,879] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 16minutes 44seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 16minutes 44seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:06:34,880] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:07:38,645] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:07:50,884] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:07:51,269] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:07:51,320] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:07:53,374] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:07:53,428] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:07:53,480] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:07:53,530] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:07:53,579] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:07:53,630] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 18minutes 3seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 18minutes 3seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:07:53,631] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:07:53,684] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 18minutes 3seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 18minutes 3seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:07:53,684] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:08:46,017] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:14:11,431] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:14:11,951] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:14:12,005] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:14:14,048] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:14:14,099] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:14:14,149] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:14:14,200] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:14:14,258] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:14:14,308] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 24minutes 24seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 24minutes 24seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:14:14,309] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:14:14,358] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 24minutes 24seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 24minutes 24seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:14:14,359] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:14:23,081] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:14:33,195] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:14:52,301] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:15:14,675] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:15:32,722] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:15:41,574] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:15:48,494] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:16:02,482] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:17:47,577] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 11:18:14,921] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:23:13,568] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:23:14,059] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:23:14,111] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:23:16,168] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:23:16,220] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:23:16,271] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:23:16,322] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:23:16,370] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:23:16,421] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 33minutes 26seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 33minutes 26seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:23:16,421] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:23:16,476] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 33minutes 26seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 33minutes 26seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:23:16,477] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:24:16,048] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:24:21,668] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:24:21,721] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:24:23,772] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:24:23,823] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:24:23,872] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:24:23,923] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:24:23,973] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[ERROR][2020-04-08 11:24:24,023] test_service_basic_status:测试获取服务的基本状态接口，service不存在:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 34minutes 33seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 34minutes 33seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:24:24,024] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[ERROR][2020-04-08 11:24:24,072] test_service_basic_status:测试获取服务的基本状态接口，service有键无值:测试失败,data错误 :: [{'name': 'pbc2',
+  'startTime': '2020-04-07 10:47:42',
+  'status': 'running',
+  'tcpConnCount': '0',
+  'uptime': '1days 0hours 34minutes 33seconds'}] != None
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': [{'name': 'pbc2', 'tcpConnCount': '0', 'startTime': '2020-04-07 10:47:42', 'uptime': '1days 0hours 34minutes 33seconds', 'status': 'running'}], 'stat': True}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:24:24,072] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:48:11,776] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:48:13,241] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:48:14,297] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:48:17,351] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:48:18,412] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:48:19,462] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:48:20,515] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:48:21,565] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:48:23,019] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 11:48:24,070] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[ERROR][2020-04-08 11:48:24,110] None == None : test_service_basic_status:测试获取服务的基本状态接口，service无键无值:测试失败,data错误
+实际返回内容：{'status': 0, 'data': {'ip': '10.20.83.150', 'infos': None, 'stat': False, 'msg': 'can not found any data,Please check if a service exists or check netsign'}, 'operation': 'Get /service/basic_status', 'msg': 'SUCCESS'}
+[INFO][2020-04-08 11:48:56,596] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:49:10,858] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:49:18,334] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:49:20,272] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:49:21,825] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:49:25,380] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:49:26,931] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:49:28,481] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:49:30,035] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:49:31,584] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:49:43,139] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 11:49:49,209] test_service_basic_status:测试获取服务的基本状态接口，service无键无值
+[INFO][2020-04-08 11:50:05,784] test_service_basic_status:测试获取服务的基本状态接口，ip,password，service均正确输入
+[INFO][2020-04-08 11:50:07,801] test_service_basic_status:测试获取服务的基本状态接口，ip有键无值,password正确输入
+[INFO][2020-04-08 11:50:09,354] test_service_basic_status:测试获取服务的基本状态接口，ip不通,password正确输入
+[INFO][2020-04-08 11:50:12,908] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码错误
+[INFO][2020-04-08 11:50:14,459] test_service_basic_status:测试获取服务的基本状态接口，ip正确，password密码为空
+[INFO][2020-04-08 11:50:16,008] test_service_basic_status:测试获取服务的基本状态接口，无ip键值
+[INFO][2020-04-08 11:50:17,561] test_service_basic_status:测试获取服务的基本状态接口，无password键值
+[INFO][2020-04-08 11:50:19,112] test_service_basic_status:测试获取服务的基本状态接口，service不存在
+[INFO][2020-04-08 11:50:21,124] test_service_basic_status:测试获取服务的基本状态接口，service有键无值
+[INFO][2020-04-08 11:50:22,894] test_service_basic_status:测试获取服务的基本状态接口，service无键无值

@@ -1,0 +1,9 @@
+test_sys_software_version
+test_sys_cpu_usage
+test_sys_shell_top
+test_sys_handle_count
+test_hardware_version
+test_hardware_disk
+test_hardware_network_flow
+test_hardware_fans_speed
+test_hardware_cpu
