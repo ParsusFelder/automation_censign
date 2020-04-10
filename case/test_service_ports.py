@@ -10,7 +10,19 @@ import common.log
 '''
 Author: zhaoyongzhi
 Date: 2020/03/31
-Describe: 设备CPU使用率
+Describe: 所有服务端口详情
+用例覆盖点：
+1）test_service_ports:测试所有服务的端口详情接口，ip,password均正确输入
+2）test_service_ports:测试获取所有服务端口详情，ip有键无值,password正确输入
+3）test_service_ports:测试获取所有服务端口详情，ip不通,password正确输入
+4）test_service_ports:测试获取所有服务端口详情，ip正确，password密码错误
+5）test_service_ports:测试获取所有服务端口详情，ip正确，password密码为空
+6）test_service_ports:测试获取所有服务端口详情，无ip键值
+7）test_service_ports:测试获取所有服务端口详情，无password键值
+8）test_service_ports:测试获取所有服务端口详情，service不存在
+9）test_service_ports:测试获取所有服务端口详情，service有键无值
+10）test_service_ports:测试获取所有服务端口详情，service无键无值
+
 '''
 # 配置测试接口名称
 case_name = "test_service_ports"
@@ -182,7 +194,6 @@ class Test_service_ports(unittest.TestCase):
             self.assertEqual(result['msg'], test_case[10], test_case[0] + ":测试失败,msg错误")
         except Exception as ex:
             logger.error(str(ex) + "\n实际返回内容：" + str(result))
-
 
 if __name__ == "__main__":
     unittest.main()
