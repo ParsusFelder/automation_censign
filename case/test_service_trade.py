@@ -267,9 +267,3 @@ class Test_service_trade(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-    # test_suit= unittest.TestSuite()
-    # # test_suit.addTest(test_service_trade('test_service_trade_08'))
-    # # test_suit.addTest(test_service_trade('test_service_trade_09'))
-    # # test_suit.addTest(test_service_trade('test_service_trade_10'))
-    # runner = unittest.TextTestRunner
-    # runner.run(test_suit)
