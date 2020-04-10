@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3d9dd04-7a92-404c-aefa-e3ca88892964" name="默认更改列表" comment="移除不必要的文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ParsusFelder" />
+        <option value="zhaoyz" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\INFOSEC\Desktop\自动化\automation_censign\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcSfumrYEb8oH1DKuWifFbXC0j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testFile" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\testFile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\testFile" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\common" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\case" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_service_trade.py">
+    <configuration name="Unittests for test_service_trade.Test_service_trade" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="automation_censign" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_service_trade.Test_service_trade&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_service_trade.Test_service_trade.test_service_trade_09" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="automation_censign" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_service_trade.Test_service_trade.test_service_trade_09&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_service_trade.Test_service_trade.test_service_trade_10" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="automation_censign" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_service_trade.Test_service_trade.test_service_trade_10&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_service_ports.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="automation_censign" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_service_ports.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_service_trade.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="automation_censign" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_service_trade.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_service_trade.py" />
+        <item itemvalue="Python tests.Unittests for test_service_trade.Test_service_trade.test_service_trade_10" />
+        <item itemvalue="Python tests.Unittests for test_service_trade.Test_service_trade.test_service_trade_09" />
+        <item itemvalue="Python tests.Unittests for test_service_trade.Test_service_trade" />
+        <item itemvalue="Python tests.Unittests in test_service_ports.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\INFOSEC\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d9dd04-7a92-404c-aefa-e3ca88892964" name="默认更改列表" comment="" />
+      <created>1585136995567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585136995567</updated>
+      <workItem from="1585136996785" duration="12553000" />
+      <workItem from="1585531896343" duration="31055000" />
+      <workItem from="1585620676256" duration="15136000" />
+      <workItem from="1585641333631" duration="4929000" />
+      <workItem from="1585646353065" duration="27384000" />
+      <workItem from="1585790512230" duration="3054000" />
+      <workItem from="1585793939787" duration="816000" />
+      <workItem from="1585794766423" duration="2307000" />
+      <workItem from="1585797083196" duration="70000" />
+      <workItem from="1585797160511" duration="46000" />
+      <workItem from="1585797213705" duration="4553000" />
+      <workItem from="1585806258666" duration="526000" />
+      <workItem from="1585806821383" duration="14514000" />
+      <workItem from="1585822660795" duration="8099000" />
+      <workItem from="1585895916768" duration="26769000" />
+      <workItem from="1586338263543" duration="599000" />
+      <workItem from="1586396038912" duration="6388000" />
+      <workItem from="1586421483207" duration="6037000" />
+    </task>
+    <task id="LOCAL-00001" summary="python-unitest Web接口自动化测试框架&#10;1）实现excel表格驱动&#10;2）按等级记录日志&#10;3）case目录中涵盖CenSign Restful接口">
+      <created>1586412405209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586412405209</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python-unitest Web接口自动化测试框架&#10;1）实现excel表格驱动&#10;2）按等级记录日志&#10;3）case目录中涵盖CenSign Restful接口">
+      <created>1586412785167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586412785167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改 software_version接口用例">
+      <created>1586413705177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586413705177</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改 software_version接口用例">
+      <created>1586481812508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586481812508</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git:2021">
+      <created>1586483314218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586483314218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改test_service_ports用例覆盖点">
+      <created>1586483477471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586483477471</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git:2021">
+      <created>1586484507158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484507158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加获取服务交易信息接口用例">
+      <created>1586484703666</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484703666</updated>
+    </task>
+    <task id="LOCAL-00009" summary="移除不必要的文件">
+      <created>1586484947390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484947390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="移除不必要的文件">
+      <created>1586485187042</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586485187042</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/INFOSEC/Desktop/自动化/automation_censign/case" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python-unitest Web接口自动化测试框架&#10;1）实现excel表格驱动&#10;2）按等级记录日志&#10;3）case目录中涵盖CenSign Restful接口" />
+    <MESSAGE value="修改 software_version接口用例" />
+    <MESSAGE value="修改test_service_ports用例覆盖点" />
+    <MESSAGE value="git:2021" />
+    <MESSAGE value="增加获取服务交易信息接口用例" />
+    <MESSAGE value="移除不必要的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="移除不必要的文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="173" y="126" key="#Custom_Plugin_Repositories" timestamp="1585793876565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="126" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1585793876565" />
+    <state x="173" y="126" key="#HTTP_Proxy" timestamp="1585793832766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="126" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1585793832766" />
+    <state x="170" y="144" key="#Log_Highlighting_(ideolog)" timestamp="1585798714284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="170" y="144" key="#Log_Highlighting_(ideolog)/0.0.1920.1040@0.0.1920.1040" timestamp="1585798714284" />
+    <state x="452" y="95" key="#Notifications" timestamp="1586412356876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1586412356876" />
+    <state x="133" y="116" width="1654" height="809" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585619767894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1585410228693" />
+    <state x="133" y="116" width="1654" height="809" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585619767894" />
+    <state x="537" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585139068834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="537" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1585139068834" />
+    <state x="390" y="267" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585138539139">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="267" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1585138539139" />
+    <state x="627" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585733956945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585733956945" />
+    <state x="499" y="33" key="CommitChangelistDialog2" timestamp="1586485480189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="33" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586485480189" />
+    <state x="171" y="65" key="DiffContextDialog" timestamp="1586484874330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="171" y="65" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586484874330" />
+    <state x="411" y="232" key="FileChooserDialogImpl" timestamp="1586411329686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="411" y="232" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586411329686" />
+    <state x="754" y="406" key="Gitee.ShareDialog" timestamp="1586482195055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="406" key="Gitee.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586482195055" />
+    <state x="774" y="389" key="Github.ShareDialog" timestamp="1586413266405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="389" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586413266405" />
+    <state x="682" y="160" key="Github.UntrackedFilesDialog" timestamp="1586411412853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="160" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586411412853" />
+    <state width="1867" height="192" key="GridCell.Tab.0.bottom" timestamp="1586485458096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1388" height="221" key="GridCell.Tab.0.bottom/0.0.1440.799@0.0.1440.799" timestamp="1585744492483" />
+    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585413613222" />
+    <state width="1867" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586485458096" />
+    <state width="1867" height="192" key="GridCell.Tab.0.center" timestamp="1586485458096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1388" height="221" key="GridCell.Tab.0.center/0.0.1440.799@0.0.1440.799" timestamp="1585744492483" />
+    <state width="1388" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585413613221" />
+    <state width="1867" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586485458096" />
+    <state width="1867" height="192" key="GridCell.Tab.0.left" timestamp="1586485458096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1388" height="221" key="GridCell.Tab.0.left/0.0.1440.799@0.0.1440.799" timestamp="1585744492483" />
+    <state width="1388" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585413613220" />
+    <state width="1867" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586485458096" />
+    <state width="1867" height="192" key="GridCell.Tab.0.right" timestamp="1586485458096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1388" height="221" key="GridCell.Tab.0.right/0.0.1440.799@0.0.1440.799" timestamp="1585744492483" />
+    <state width="1388" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585413613221" />
+    <state width="1867" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586485458096" />
+    <state width="1867" height="301" key="GridCell.Tab.1.bottom" timestamp="1586335839216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586335839216" />
+    <state width="1867" height="301" key="GridCell.Tab.1.center" timestamp="1586335839216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586335839216" />
+    <state width="1867" height="301" key="GridCell.Tab.1.left" timestamp="1586335839216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586335839216" />
+    <state width="1867" height="301" key="GridCell.Tab.1.right" timestamp="1586335839216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586335839216" />
+    <state x="601" y="166" key="MultipleFileMergeDialog" timestamp="1586485451741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="166" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586485451741" />
+    <state x="669" y="178" key="RollbackChangesDialog" timestamp="1586412140173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="178" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586412140173" />
+    <state x="69" y="109" width="1224" height="883" key="SettingsEditor" timestamp="1586481878682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="69" y="109" width="1224" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586481878682" />
+    <state x="254" y="172" key="Vcs.Push.Dialog.v2" timestamp="1586485438556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="172" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586485438556" />
+    <state x="417" y="195" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585549329650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="195" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1585549329650" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1585734353368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585734353368" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/configHttp.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_06.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_06 Coverage Results" MODIFIED="1585736980309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_censign_software_version_py.coverage" NAME="Unittests in test_censign_software_version.py Coverage Results" MODIFIED="1585408962302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_hardware_cpu_py.coverage" NAME="Unittests in test_hardware_cpu.py Coverage Results" MODIFIED="1585818808748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_04.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_04 Coverage Results" MODIFIED="1585812902566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_01.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_01 Coverage Results" MODIFIED="1585820007923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version_01.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version_01 Coverage Results" MODIFIED="1585565495967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_trade_Test_service_trade.coverage" NAME="Unittests for test_service_trade.Test_service_trade Coverage Results" MODIFIED="1586484155944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_02.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_02 Coverage Results" MODIFIED="1585807917232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_04.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_04 Coverage Results" MODIFIED="1585821592231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports_test_service_ports_03.coverage" NAME="Unittests for test_service_ports.Test_service_ports.test_service_ports_03 Coverage Results" MODIFIED="1585811497044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_05.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_05 Coverage Results" MODIFIED="1585900533255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_trade_Test_service_trade_test_service_trade_09.coverage" NAME="Unittests for test_service_trade.Test_service_trade.test_service_trade_09 Coverage Results" MODIFIED="1586484367022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_version_Test_hardware_version.coverage" NAME="Unittests for test_hardware_version.Test_hardware_version Coverage Results" MODIFIED="1585734869498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count_test_sys_handle_count_04.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count.test_sys_handle_count_04 Coverage Results" MODIFIED="1585808468624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports_test_service_ports_02.coverage" NAME="Unittests for test_service_ports.Test_service_ports.test_service_ports_02 Coverage Results" MODIFIED="1585811362174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_05.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_05 Coverage Results" MODIFIED="1585821595964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_05.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_05 Coverage Results" MODIFIED="1585908826227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_trade_Test_service_trade_test_service_trade_10.coverage" NAME="Unittests for test_service_trade.Test_service_trade.test_service_trade_10 Coverage Results" MODIFIED="1586484448954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_hardware_version_py.coverage" NAME="Unittests in test_hardware_version.py Coverage Results" MODIFIED="1585728463230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_07.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_07 Coverage Results" MODIFIED="1585737001103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_censign_software_version_Test_censign_software_version_test_software_version_01.coverage" NAME="Unittests for test_censign_software_version.Test_censign_software_version.test_software_version_01 Coverage Results" MODIFIED="1585412170652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_03.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_03 Coverage Results" MODIFIED="1585822547559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version Coverage Results" MODIFIED="1585878263978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_03.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_03 Coverage Results" MODIFIED="1585808058443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage Coverage Results" MODIFIED="1585798736768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count Coverage Results" MODIFIED="1585819186754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_sys_handle_count_py.coverage" NAME="Unittests in test_sys_handle_count.py Coverage Results" MODIFIED="1585810474118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_03.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_03 Coverage Results" MODIFIED="1585879567188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_04.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_04 Coverage Results" MODIFIED="1585880579063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$readConfig__1_.coverage" NAME="readConfig (1) Coverage Results" MODIFIED="1585538811701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_censign_software_version_Test_censign_software_version.coverage" NAME="Unittests for test_censign_software_version.Test_censign_software_version Coverage Results" MODIFIED="1585410746582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_01.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_01 Coverage Results" MODIFIED="1585731424634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_sys_cpu_usage_py.coverage" NAME="Unittests in test_sys_cpu_usage.py Coverage Results" MODIFIED="1585807163540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_06.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_06 Coverage Results" MODIFIED="1585820804243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_02.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_02 Coverage Results" MODIFIED="1585812653660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Common.coverage" NAME="Common Coverage Results" MODIFIED="1585711019945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_03.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_03 Coverage Results" MODIFIED="1585908642347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_05.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_05 Coverage Results" MODIFIED="1585812928806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_05.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_05 Coverage Results" MODIFIED="1585736974526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count_test_sys_handle_count_07.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count.test_sys_handle_count_07 Coverage Results" MODIFIED="1585810468475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_07.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_07 Coverage Results" MODIFIED="1585821605227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_02.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_02 Coverage Results" MODIFIED="1585821241333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_08.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_08 Coverage Results" MODIFIED="1586315322690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_06.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_06 Coverage Results" MODIFIED="1585900536567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_02.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_02 Coverage Results" MODIFIED="1585818182267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_01.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_01 Coverage Results" MODIFIED="1585900503679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_06.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_06 Coverage Results" MODIFIED="1585728712076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_07.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_07 Coverage Results" MODIFIED="1585818205740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$configHttp.coverage" NAME="configHttp Coverage Results" MODIFIED="1585561524397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_sys_software_version_py.coverage" NAME="Unittests in test_sys_software_version.py Coverage Results" MODIFIED="1585727839117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_version_Test_hardware_version_test_hardware_version_07.coverage" NAME="Unittests for test_hardware_version.Test_hardware_version.test_hardware_version_07 Coverage Results" MODIFIED="1585728558196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_10.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_10 Coverage Results" MODIFIED="1586317750623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_03.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_03 Coverage Results" MODIFIED="1585736826139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_01.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_01 Coverage Results" MODIFIED="1585812503358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_07.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_07 Coverage Results" MODIFIED="1586314077979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_07.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_07 Coverage Results" MODIFIED="1585812938126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_01.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_01 Coverage Results" MODIFIED="1586309805594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version Coverage Results" MODIFIED="1585620458581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_03.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_03 Coverage Results" MODIFIED="1585900515678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_sys_software_version_06.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_sys_software_version_06 Coverage Results" MODIFIED="1585727828926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1585407416990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version_04.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version_04 Coverage Results" MODIFIED="1585565334010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_04.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_04 Coverage Results" MODIFIED="1585820796660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_version_Test_hardware_version_test_software_version.coverage" NAME="Unittests for test_hardware_version.Test_hardware_version.test_software_version Coverage Results" MODIFIED="1585623521985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_sys_software_version.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_sys_software_version Coverage Results" MODIFIED="1585719591445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_sys_shell_top_py.coverage" NAME="Unittests in test_sys_shell_top.py Coverage Results" MODIFIED="1585737011219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status Coverage Results" MODIFIED="1586317805541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count_test_sys_handle_count_02.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count.test_sys_handle_count_02 Coverage Results" MODIFIED="1585806672832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$runner.coverage" NAME="runner Coverage Results" MODIFIED="1586426937582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_01.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_01 Coverage Results" MODIFIED="1585821195286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage Coverage Results" MODIFIED="1585711134082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_06.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_06 Coverage Results" MODIFIED="1585908845390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_05.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_05 Coverage Results" MODIFIED="1585818199752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_sys_software_version_07.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_sys_software_version_07 Coverage Results" MODIFIED="1585727824589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_hardware_mem_py.coverage" NAME="Unittests in test_hardware_mem.py Coverage Results" MODIFIED="1585900543950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Log.coverage" NAME="Log Coverage Results" MODIFIED="1585538892266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_04.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_04 Coverage Results" MODIFIED="1585818195382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_04.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_04 Coverage Results" MODIFIED="1585900528381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_05.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_05 Coverage Results" MODIFIED="1585820800803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_02.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_02 Coverage Results" MODIFIED="1585736770240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version_03.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version_03 Coverage Results" MODIFIED="1585565273377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_service_basic_status_py.coverage" NAME="Unittests in test_service_basic_status.py Coverage Results" MODIFIED="1586426782235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_07.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_07 Coverage Results" MODIFIED="1585730271909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports_test_service_ports_04.coverage" NAME="Unittests for test_service_ports.Test_service_ports.test_service_ports_04 Coverage Results" MODIFIED="1585811449639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count_test_sys_handle_count_03.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count.test_sys_handle_count_03 Coverage Results" MODIFIED="1585810491465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports_test_service_ports_01.coverage" NAME="Unittests for test_service_ports.Test_service_ports.test_service_ports_01 Coverage Results" MODIFIED="1585811301900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_hardware_fans_speed_py.coverage" NAME="Unittests in test_hardware_fans_speed.py Coverage Results" MODIFIED="1585821839828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_06.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_06 Coverage Results" MODIFIED="1585818202654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_version_Test_hardware_version_test_hardware_version_06.coverage" NAME="Unittests for test_hardware_version.Test_hardware_version.test_hardware_version_06 Coverage Results" MODIFIED="1585728553772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version_02.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version_02 Coverage Results" MODIFIED="1585566399777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_06.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_06 Coverage Results" MODIFIED="1585821600248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_07.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_07 Coverage Results" MODIFIED="1585900540206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_service_trade_py.coverage" NAME="Unittests in test_service_trade.py Coverage Results" MODIFIED="1586484469685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$log2.coverage" NAME="log2 Coverage Results" MODIFIED="1585730611991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_fans_speed_Test_hardware_fans_speed_test_hardware_fans_speed_03.coverage" NAME="Unittests for test_hardware_fans_speed.Test_hardware_fans_speed.test_hardware_fans_speed_03 Coverage Results" MODIFIED="1585821564666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_censign_software_version_Test_censign_software_version_test_ip_password_normal.coverage" NAME="Unittests for test_censign_software_version.Test_censign_software_version.test_ip_password_normal Coverage Results" MODIFIED="1585408595583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_02.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_02 Coverage Results" MODIFIED="1585907978749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_01.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_01 Coverage Results" MODIFIED="1585736203528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_hardware_disk_py.coverage" NAME="Unittests in test_hardware_disk.py Coverage Results" MODIFIED="1585818707837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_in_test_service_ports_py.coverage" NAME="Unittests in test_service_ports.py Coverage Results" MODIFIED="1586483256595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_03.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_03 Coverage Results" MODIFIED="1585818186309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_mem_test_hardware_mem_test_hardware_mem_02.coverage" NAME="Unittests for test_hardware_mem.test_hardware_mem.test_hardware_mem_02 Coverage Results" MODIFIED="1585900508777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1585534077515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports_test_service_basic_status_08.coverage" NAME="Unittests for test_service_ports.Test_service_ports.test_service_basic_status_08 Coverage Results" MODIFIED="1586483134494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_basic_status_Test_service_basic_status_test_service_basic_status_09.coverage" NAME="Unittests for test_service_basic_status.Test_service_basic_status.test_service_basic_status_09 Coverage Results" MODIFIED="1586313916212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_cpu_usage_Test_sys_cpu_usage_test_sys_cpu_usage_05.coverage" NAME="Unittests for test_sys_cpu_usage.Test_sys_cpu_usage.test_sys_cpu_usage_05 Coverage Results" MODIFIED="1585808076497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_disk_Test_hardware_disk_test_hardware_disk_01.coverage" NAME="Unittests for test_hardware_disk.Test_hardware_disk.test_hardware_disk_01 Coverage Results" MODIFIED="1585818176239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_service_ports_Test_service_ports.coverage" NAME="Unittests for test_service_ports.Test_service_ports Coverage Results" MODIFIED="1586482976281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_cpu_Test_hardware_cpu_test_hardware_cpu_06.coverage" NAME="Unittests for test_hardware_cpu.Test_hardware_cpu.test_hardware_cpu_06 Coverage Results" MODIFIED="1585812933733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$common.coverage" NAME="common Coverage Results" MODIFIED="1585557928161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_shell_top_Test_sys_shell_top_test_sys_shell_top_04.coverage" NAME="Unittests for test_sys_shell_top.Test_sys_shell_top.test_sys_shell_top_04 Coverage Results" MODIFIED="1585736895340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_07.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_07 Coverage Results" MODIFIED="1585820807573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$url_data.coverage" NAME="url_data Coverage Results" MODIFIED="1585538361155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_handle_count_Test_sys_handle_count_test_sys_handle_count_01.coverage" NAME="Unittests for test_sys_handle_count.Test_sys_handle_count.test_sys_handle_count_01 Coverage Results" MODIFIED="1585805888589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_software_version_00.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_software_version_00 Coverage Results" MODIFIED="1585617739592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_sys_software_version_Test_sys_software_version_test_sys_software_version_05.coverage" NAME="Unittests for test_sys_software_version.Test_sys_software_version.test_sys_software_version_05 Coverage Results" MODIFIED="1585735082095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/automation_censign$Unittests_for_test_hardware_network_flow_Test_hardware_network_flow_test_hardware_network_flow_02.coverage" NAME="Unittests for test_hardware_network_flow.Test_hardware_network_flow.test_hardware_network_flow_02 Coverage Results" MODIFIED="1585822207084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+</project>
