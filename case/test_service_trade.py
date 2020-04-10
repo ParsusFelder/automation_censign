@@ -27,7 +27,7 @@ test_cases = cm.get_xls_cases(xls_name, sheet_name, case_name)
 ch = ConfigHttp()
 
 
-class Test_service_trade(unittest.TestCase):
+class TestServiceTrade(unittest.TestCase):
 
     def setUp(self):
         urllib3.disable_warnings()

@@ -27,7 +27,7 @@ test_cases = cm.get_xls_cases(xls_name, sheet_name, case_name)
 ch = ConfigHttp()
 
 
-class test_hardware_mem(unittest.TestCase):
+class TestHardwareMem(unittest.TestCase):
 
     def setUp(self):
         urllib3.disable_warnings()
