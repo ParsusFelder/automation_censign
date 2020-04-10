@@ -265,7 +265,7 @@ class Test_service_basic_status(unittest.TestCase):
             logger.error(str(ex) + "\n实际返回内容：" + str(result))
 
 if __name__ == "__main__":
-    unittest.main(verbosity=1)
+    unittest.main()
     # test_suit= unittest.TestSuite()
     # # test_suit.addTest(Test_service_basic_status('test_service_basic_status_08'))
     # # test_suit.addTest(Test_service_basic_status('test_service_basic_status_09'))

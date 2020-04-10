@@ -7,3 +7,4 @@ test_hardware_disk
 test_hardware_network_flow
 test_hardware_fans_speed
 test_hardware_cpu
+test_service_basic_status
