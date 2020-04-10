@@ -19,10 +19,6 @@ Describe: 所有服务端口详情
 5）test_service_ports:测试获取所有服务端口详情，ip正确，password密码为空
 6）test_service_ports:测试获取所有服务端口详情，无ip键值
 7）test_service_ports:测试获取所有服务端口详情，无password键值
-8）test_service_ports:测试获取所有服务端口详情，service不存在
-9）test_service_ports:测试获取所有服务端口详情，service有键无值
-10）test_service_ports:测试获取所有服务端口详情，service无键无值
-
 '''
 # 配置测试接口名称
 case_name = "test_service_ports"
