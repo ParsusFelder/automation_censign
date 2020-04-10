@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3d9dd04-7a92-404c-aefa-e3ca88892964" name="默认更改列表" comment="git:2021">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/output.log" beforeDir="false" afterPath="$PROJECT_DIR$/result/output.log" afterDir="false" />
+    <list default="true" id="d3d9dd04-7a92-404c-aefa-e3ca88892964" name="默认更改列表" comment="移除不必要的文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,11 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -50,14 +53,14 @@
     <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\testFile" />
-      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign" />
-      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\common" />
-      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\case" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\testFile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\testFile" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\common" />
+      <recent name="C:\Users\INFOSEC\Desktop\自动化\automation_censign\case" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.Unittests in test_service_trade.py">
@@ -185,7 +188,7 @@
       <workItem from="1585895916768" duration="26769000" />
       <workItem from="1586338263543" duration="599000" />
       <workItem from="1586396038912" duration="6388000" />
-      <workItem from="1586421483207" duration="5433000" />
+      <workItem from="1586421483207" duration="5677000" />
     </task>
     <task id="LOCAL-00001" summary="python-unitest Web接口自动化测试框架&#10;1）实现excel表格驱动&#10;2）按等级记录日志&#10;3）case目录中涵盖CenSign Restful接口">
       <created>1586412405209</created>
@@ -243,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586484703666</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="移除不必要的文件">
+      <created>1586484947390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484947390</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +301,8 @@
     <MESSAGE value="修改test_service_ports用例覆盖点" />
     <MESSAGE value="git:2021" />
     <MESSAGE value="增加获取服务交易信息接口用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加获取服务交易信息接口用例" />
+    <MESSAGE value="移除不必要的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="移除不必要的文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="173" y="126" key="#Custom_Plugin_Repositories" timestamp="1585793876565">
@@ -327,10 +338,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585733956945" />
-    <state x="499" y="33" key="CommitChangelistDialog2" timestamp="1586484875711">
+    <state x="499" y="33" key="CommitChangelistDialog2" timestamp="1586485141951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="33" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586484875711" />
+    <state x="499" y="33" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586485141951" />
     <state x="171" y="65" key="DiffContextDialog" timestamp="1586484874330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -403,10 +414,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="69" y="109" width="1224" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586481878682" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1586483345455">
+    <state x="254" y="172" key="Vcs.Push.Dialog.v2" timestamp="1586485154765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586483345455" />
+    <state x="254" y="172" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586485154765" />
     <state x="417" y="195" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585549329650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
